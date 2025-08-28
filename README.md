@@ -94,18 +94,10 @@ ListaDeTarefas/
 
 ---
 
-## 🧙‍♂️ Dicas de Customização
-
-- Adicione botão para remover tarefas individualmente.
-- Coloque um emoji em cada tarefa.
-- Troque o tema das cores.
-- Faça animações para as tarefas entrando e saindo.
-
----
 
 ## 🦸‍♀️ Créditos
 
-Feito com 💙 por [Seu Nome ou Nick](https://github.com/seu-usuario)
+Feito com 💙 por Ana Souza(https://github.com/souzabweatriz)
 
 ---
 
