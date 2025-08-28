@@ -1,7 +1,7 @@
 # 📋 MeuAppStorage - Lista de Tarefas
 
 Bem-vindo ao **MeuAppStorage**!  
-Aqui você nunca mais vai esquecer de comprar pão, estudar para a prova ou alimentar o Tamagotchi.  
+Aqui você nunca mais vai esquecer de comprar pão, estudar para a prova ou alimentar o seu Totoro.  
 Este é um app simples de Lista de Tarefas feito em **React Native** com persistência usando o AsyncStorage.  
 Salve, visualize e limpe suas tarefas de forma fácil e divertida! 😄
 
@@ -74,13 +74,6 @@ ListaDeTarefas/
 
 ---
 
-## 📝 Exemplo de uso
-
-![Exemplo do app rodando](https://user-images.githubusercontent.com/0000000/000000000-00000000-0000-0000-0000-000000000000.png)
-> *Imagem ilustrativa: personalize com um print do seu app!*
-
----
-
 ## 🤔 Dúvidas Frequentes
 
 **1. Minhas tarefas sumiram!**
@@ -97,7 +90,7 @@ ListaDeTarefas/
 
 ## 🦸‍♀️ Créditos
 
-Feito com 💙 por Ana Souza(https://github.com/souzabweatriz)
+Feito com 💙 por Ana Souza (https://github.com/souzabweatriz)
 
 ---
 
