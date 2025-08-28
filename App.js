@@ -56,7 +56,7 @@ export default function Lista() {
       <View>
         {tarefas.length > 0 ? (
           tarefas.map((item, idx) => (
-            <Text key={idx} style={styles.texto}>{item}</Text>
+            <Text style={styles.result} key={idx}>{item}</Text>
           ))
         ) : (
           <Text style={styles.texto}>Nenhuma Tarefa no momento</Text>
@@ -68,6 +68,7 @@ export default function Lista() {
 
 const styles = StyleSheet.create({
   container: {
+    backgroundColor: '#fff',
     display: 'flex',
     justifyContent: 'center',
     alignItems: 'center',
@@ -81,17 +82,25 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     marginBottom: 20,
   },
-  texto: {
-    fontSize: 18,
-    marginBottom: 10,
-    textAlign: 'center',
-  },
   input: {
     borderWidth: 1,
     borderColor: '#ccc',
     width: '45%',
     height: 40,
     marginBottom: 20,
+    borderRadius: 5,
+  },
+  result: {
+    fontSize: 18,
+    marginTop: 10,
+    color: 'black',
+    display: 'flex',
+    justifyContent: 'center',
+    alignItems: 'center',
+    width: '100%',
+    height: 70,
+    backgroundColor: 'lightgray',
+    padding: 10,
     borderRadius: 5,
   },
 });
